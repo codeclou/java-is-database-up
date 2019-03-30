@@ -1,18 +1,22 @@
 # java-is-database-up
 
+Is database ready for connections? Check PostgreSQL and MySQL databases if the accept connections.
 
+&nbsp;
 
-----
+<p align="center"><img src"=width="80%" src="https://codeclou.github.io/java-is-database-up/img/demo.gif" /></p>
+
 &nbsp;
 
 ### Is this for me?
 
 You are starting maybe dockerized MySQL or PostgreSQL databases and they need some time
-until they are ready and accept connections? 
+until they are ready and accept connections?
 You want to busy wait for the database to accept connections?
 Then this is for you.
 
-----
+---
+
 &nbsp;
 
 ### Usage
@@ -36,7 +40,8 @@ java -jar is-database-up.jar \
 
 You can specify `-v` to see more information printed out.
 
-----
+---
+
 &nbsp;
 
 ### License
