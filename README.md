@@ -1,6 +1,6 @@
 # java-is-database-up
 
-Is database ready for connections? Check PostgreSQL and MySQL databases if the accept connections.
+Is database ready for connections? Check PostgreSQL and MySQL databases if they accept connections.
 
 &nbsp;
 
